@@ -1,6 +1,6 @@
 #   Olá! eu sou Paulo Quirino 
 - 👨🏽‍🎓 Sou estudante de Big Data e inteligência analítica no 3 semestre de 5.
-- 👨🏽‍💻 atualmente estou aprendendo as linguagens Python, MySQL server 
+- 👨🏽‍💻 atualmente estou  estudando as Python,  MySQL Server
 - conhecimento em git e github
 - modelagem de banco de dados 
 - Business intelligence
